@@ -1,0 +1,22 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+
+}
+
+.title{
+    background-color: red;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.8rem;
+    padding: 50px;
+}
+
+.boxster{
+    background-color: rebeccapurple;
+  
+    border: 50px solid green;
+    padding: 50px;
+    margin: 1px;
+}
